@@ -1,0 +1,20 @@
+C:\Users\Dwibble\Desktop\Informatyka\Ervin_Kukchiev_Project№3\Adilbek_Khiiasov 58981\bin\Debug\Adilbek Khiiasov nr.albumu58981.exe.config
+C:\Users\Dwibble\Desktop\Informatyka\Ervin_Kukchiev_Project№3\Adilbek_Khiiasov 58981\bin\Debug\Adilbek Khiiasov nr.albumu58981.exe
+C:\Users\Dwibble\Desktop\Informatyka\Ervin_Kukchiev_Project№3\Adilbek_Khiiasov 58981\bin\Debug\Adilbek Khiiasov nr.albumu58981.pdb
+C:\Users\Dwibble\Desktop\Informatyka\Ervin_Kukchiev_Project№3\Adilbek_Khiiasov 58981\obj\Debug\Adilbek_Khiiasov 58981.csprojAssemblyReference.cache
+C:\Users\Dwibble\Desktop\Informatyka\Ervin_Kukchiev_Project№3\Adilbek_Khiiasov 58981\obj\Debug\Adilbek_Khiiasov_nr_albumu58981.Adilbe_Khiiasov_nr_albumu58981.resources
+C:\Users\Dwibble\Desktop\Informatyka\Ervin_Kukchiev_Project№3\Adilbek_Khiiasov 58981\obj\Debug\Adilbek_Khiiasov_nr.albumu58981.Properties.Resources.resources
+C:\Users\Dwibble\Desktop\Informatyka\Ervin_Kukchiev_Project№3\Adilbek_Khiiasov 58981\obj\Debug\Adilbek_Khiiasov 58981.csproj.GenerateResource.cache
+C:\Users\Dwibble\Desktop\Informatyka\Ervin_Kukchiev_Project№3\Adilbek_Khiiasov 58981\obj\Debug\Adilbek_Khiiasov 58981.csproj.CoreCompileInputs.cache
+C:\Users\Dwibble\Desktop\Informatyka\Ervin_Kukchiev_Project№3\Adilbek_Khiiasov 58981\obj\Debug\Adilbek Khiiasov nr.albumu58981.exe
+C:\Users\Dwibble\Desktop\Informatyka\Ervin_Kukchiev_Project№3\Adilbek_Khiiasov 58981\obj\Debug\Adilbek Khiiasov nr.albumu58981.pdb
+C:\PRO\PROJEKTS\egzamin 1 semestr\Adilbek_Khiiasov 58981\Adilbek_Khiiasov 58981\bin\Debug\Adilbek Khiiasov nr.albumu58981.exe.config
+C:\PRO\PROJEKTS\egzamin 1 semestr\Adilbek_Khiiasov 58981\Adilbek_Khiiasov 58981\bin\Debug\Adilbek Khiiasov nr.albumu58981.exe
+C:\PRO\PROJEKTS\egzamin 1 semestr\Adilbek_Khiiasov 58981\Adilbek_Khiiasov 58981\bin\Debug\Adilbek Khiiasov nr.albumu58981.pdb
+C:\PRO\PROJEKTS\egzamin 1 semestr\Adilbek_Khiiasov 58981\Adilbek_Khiiasov 58981\obj\Debug\Adilbek_Khiiasov 58981.csproj.AssemblyReference.cache
+C:\PRO\PROJEKTS\egzamin 1 semestr\Adilbek_Khiiasov 58981\Adilbek_Khiiasov 58981\obj\Debug\Adilbek_Khiiasov_nr_albumu58981.Adilbek_Khiiasov_58981.resources
+C:\PRO\PROJEKTS\egzamin 1 semestr\Adilbek_Khiiasov 58981\Adilbek_Khiiasov 58981\obj\Debug\Adilbek_Khiiasov_nr.albumu58981.Properties.Resources.resources
+C:\PRO\PROJEKTS\egzamin 1 semestr\Adilbek_Khiiasov 58981\Adilbek_Khiiasov 58981\obj\Debug\Adilbek_Khiiasov 58981.csproj.GenerateResource.cache
+C:\PRO\PROJEKTS\egzamin 1 semestr\Adilbek_Khiiasov 58981\Adilbek_Khiiasov 58981\obj\Debug\Adilbek_Khiiasov 58981.csproj.CoreCompileInputs.cache
+C:\PRO\PROJEKTS\egzamin 1 semestr\Adilbek_Khiiasov 58981\Adilbek_Khiiasov 58981\obj\Debug\Adilbek Khiiasov nr.albumu58981.exe
+C:\PRO\PROJEKTS\egzamin 1 semestr\Adilbek_Khiiasov 58981\Adilbek_Khiiasov 58981\obj\Debug\Adilbek Khiiasov nr.albumu58981.pdb
