@@ -9,6 +9,6 @@
   <img src="Img/QWE.png" width="600" height="250" alt="C#">
   <img src="Img/TableCode.png" width="600" height="250" alt="C#">
   <img src="Img/Table.pngg" width="600" height="250" alt="C#">
-  <img src="Img/GrafikCode.png" width="600" height="250""350" alt="C#">
+  <img src="Img/GrafikCode.png" width="600" height="250" alt="C#">
   <img src="Img/Graf.png" width="600" height="250" alt="C#">
 </div>
