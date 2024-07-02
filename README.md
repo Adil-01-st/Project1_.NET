@@ -1,4 +1,5 @@
 <div align="center">
+  <p>This is the formula by which you need to calculate the functions</p>
   <img src="Img/Def.png" width="600" height="250" title="hover text">
   <p>Here are all the Entry Conditions</p>
   <img src="Img/W.png" width="600" height="250" alt="C#">
