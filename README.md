@@ -12,7 +12,7 @@
   <p>Tabulating</p>
   <img src="Img/TableCode.png" width="600" height="250" alt="C#">
   <img src="Img/Table.png" width="600" height="250" alt="C#">
-  <p>graphic drawing</p>
+  <p>Graphic drawing</p>
   <img src="Img/GrafikCode.png" width="600" height="250" alt="C#">
   <img src="Img/Graf.png" width="600" height="250" alt="C#">
 </div>
